@@ -1,0 +1,40 @@
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+
+.container h1{
+ width: 1200px;
+color: #04AA6D;
+font-weight: bold;
+font-size: 30px;
+font-family: Arial bold; 
+  float: center;
+}
+  input[type=text], input[type=password] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 5%;
+    float: center;
+    margin-left: 75px;
+  }
+
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+
